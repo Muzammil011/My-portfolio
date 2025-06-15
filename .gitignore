@@ -1,0 +1,4 @@
+# Ignore Chrome files
+chrome-win64/
+chromedriver.exe
+LICENSE.chromedriver
