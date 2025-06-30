@@ -1,0 +1,15 @@
+.skills-section {
+  padding: 2rem;
+  text-align: center;
+}
+
+.skill-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2rem;
+}
+
+.skill-name {
+  font-size: 1.1rem;
+  margin: 0.3rem 0;
+}

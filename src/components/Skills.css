@@ -1,0 +1,41 @@
+.skills-section {
+  background-color: #000;
+  color: #fff;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.skill-category {
+  margin-bottom: 2rem;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.skill-card {
+  background-color: #111;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 120px;
+  text-align: center;
+  transition: transform 0.3s ease;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.skill-card:hover {
+  transform: scale(1.1);
+  background-color: #222;
+}
+
+.skill-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-name {
+  font-size: 0.9rem;
+}
