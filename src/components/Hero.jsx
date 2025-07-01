@@ -25,7 +25,9 @@ function Hero() {
           <span className="cursor">|</span>
         </h1>
         <p className="hero-subtitle">
-          I’m an aspiring SDET passionate about quality, code, and continuous learning. This portfolio reflects my hands-on learning journey in building test automation frameworks, performance testing, and CI/CD workflows.
+          Aspiring SDET with a passion for automation, testing, and DevOps.
+Focused on roles in automation testing, backend development, and DevOps engineering.
+This portfolio highlights my hands-on journey and the skills I've built along the way.
         </p>
         <div className="hero-icons">
           <a href="https://github.com/Muzammil011" target="_blank" rel="noopener noreferrer">
@@ -34,7 +36,7 @@ function Hero() {
           <a href="https://linkedin.com/in/muzammil-syed-63203627b/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="icon" />
           </a>
-          <a href="mailto:your.email@example.com">
+          <a href="mailto:seyedmuzammil2020@gmail.com">
             <FaEnvelope className="icon" />
           </a>
         </div>
