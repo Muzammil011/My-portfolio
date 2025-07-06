@@ -26,8 +26,8 @@ function Hero() {
         </h1>
         <p className="hero-subtitle">
           Aspiring SDET with a passion for automation, testing, and DevOps.
-Focused on roles in automation testing, backend development, and DevOps engineering.
-This portfolio highlights my hands-on journey and the skills I've built along the way.
+          Focused on roles in automation testing, backend development, and DevOps engineering.
+          This portfolio highlights my hands-on journey and the skills I've built along the way.
         </p>
         <div className="hero-icons">
           <a href="https://github.com/Muzammil011" target="_blank" rel="noopener noreferrer">

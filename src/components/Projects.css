@@ -32,11 +32,13 @@
 
 .project-description {
   margin-bottom: 10px;
+  font-family: 'DM Sans', sans-serif;
 }
 
 .project-tools {
   margin-bottom: 20px;
   font-size: 0.95rem;
+  font-family: 'DM Sans', sans-serif;
 }
 
 .project-link {

@@ -44,6 +44,21 @@ const Projects = () => {
           View Code
         </a>
       </div>
+
+      <div className="project-card white-bg">
+        <h3 className="project-title">Ethereum DevOps Environment (TCS iON Internship)</h3>
+        <p className="project-description">
+          Building a containerized DevOps environment for Ethereum smart contract development as part of the TCS iON RIO 125 internship. The project is focused on replicating a full blockchain development workflow using real-world DevOps practices. (In Progress)
+        </p>
+        <p className="project-tools">
+          <strong>Tools:</strong> Docker, Docker Compose, Amazon EC2 (Amazon Linux), Solidity, Solc, Ganache (CLI & GUI), Truffle, Node.js, EVM, Eclipse IDE, Yakindu Solidity Plugin, Git, GitHub
+        </p>
+        <span className="project-link">
+          <FaGithub className="github-icon" />
+          In-Progress
+        </span>
+      </div>
+      
     </section>
   );
 };
