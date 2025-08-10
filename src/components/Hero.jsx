@@ -25,9 +25,9 @@ function Hero() {
           <span className="cursor">|</span>
         </h1>
         <p className="hero-subtitle">
-          Aspiring SDET with a passion for automation, testing, and DevOps.
-          Focused on roles in automation testing, backend development, and DevOps engineering.
-          This portfolio highlights my hands-on journey and the skills I've built along the way.
+          I’m an SDET who loves automation, testing, and DevOps.
+          I’m driven by solving problems and building reliable systems.
+          This portfolio shares my hands-on journey, the challenges I’ve tackled, and the skills I’ve grown along the way.
         </p>
         <div className="hero-icons">
           <a href="https://github.com/Muzammil011" target="_blank" rel="noopener noreferrer">

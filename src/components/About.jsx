@@ -7,10 +7,10 @@ const About = () => {
       <div className="about-content">
         <h2>About Me</h2>
         <p>
-          Coming from a non-traditional background, my journey into tech has been anything but typical. That path has shaped how I learn: hands-on, self-driven, and focused on solving real problems.
+          With over a year of hands-on experience as an SDET, I bring a practical, problem-solving approach to automation testing, backend development, and DevOps practices like CI/CD and performance testing.
         </p>
         <p>
-          Currently in my final year of BCA, along with a TCS iON internship as part of my academic program. I’ve been building practical skills in automation testing, backend development, and DevOps practices like CI/CD and performance testing.
+          Coming from a non-traditional background, I’ve built my skills through self-driven learning and real-world projects. Currently, I’m completing my final year of BCA alongside a TCS iON internship, continuing to expand my expertise in software quality and automation.
         </p>
         <p>
           This portfolio is a reflection of my self-driven learning journey toward becoming a well-rounded engineer.
