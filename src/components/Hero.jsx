@@ -25,9 +25,9 @@ function Hero() {
           <span className="cursor">|</span>
         </h1>
         <p className="hero-subtitle">
-          I’m an SDET who loves automation, testing, and DevOps.
-          I’m driven by solving problems and building reliable systems.
-          This portfolio shares my hands-on journey, the challenges I’ve tackled, and the skills I’ve grown along the way.
+          Passionate Software Developer (SDE)
+          I enjoy building software, automating workflows, and breaking things on purpose.
+          This portfolio highlights my hands-on journey, the skills I’ve built, and the syntax errors I now proudly call “learning moments.”
         </p>
         <div className="hero-icons">
           <a href="https://github.com/Muzammil011" target="_blank" rel="noopener noreferrer">
